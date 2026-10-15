@@ -1,9 +1,9 @@
 # Projeto-EBAC
 Meu primeiro projeto da EBAC
 ## Como executar o calculadora.sh 
-Baixe ou clone este repositório
-Dê permissão de execução: chmod +x calculadora.sh
-Execute: ./nome_do_arquivo.sh
+1. Baixe ou clone este repositório
+2. Dê permissão de execução: chmod +x calculadora.sh
+3. Execute: ./calculadora.sh
 
 ## Explicação do código python
 O arquivo organização_de_clientes.py organiza dados de cientes.
